@@ -17,7 +17,7 @@
 
 - Start: [Date]
 - End/Delivery: [Date]
-- Fees: [Fixed / Time-based] — Payment terms: [e.g., 50% upfront, 50% on delivery]
+- Fees: [Fixed / Time-based] - Payment terms: [e.g., 50% upfront, 50% on delivery]
 
 ## Legal & Ethics
 

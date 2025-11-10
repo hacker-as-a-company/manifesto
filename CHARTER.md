@@ -1,4 +1,4 @@
-# Hacker as a Company — Charter
+# Hacker as a Company - Charter
 
 Freedom with structure. Ethics without compromise. Community over ego.
 
@@ -20,7 +20,7 @@ Freedom with structure. Ethics without compromise. Community over ego.
 
 ## Governance
 
-- Founder as Gardener: El Mehdi Oumedlouz acts as origin and steward — not CEO.
+- Founder as Gardener: El Mehdi Oumedlouz acts as origin and steward - not CEO.
 - Decisions prioritize the manifesto and charter alignment.
 - Local cells (e.g., “Hacker as a Company – Morocco”) may self-organize while honoring this charter and license.
 

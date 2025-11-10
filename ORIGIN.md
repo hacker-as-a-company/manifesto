@@ -2,7 +2,7 @@
 
 The concept “Hacker as a Company” was initiated by **El Mehdi Oumedlouz** in 2025 as an open, ethical framework for autonomous hackers. This repository serves as the canonical public record of the manifesto and its evolution.
 
-- Created by El Mehdi Oumedlouz — November 2025
+- Created by El Mehdi Oumedlouz - November 2025
 - License: CC BY-SA 4.0
 - Public repo timestamp (Git history) acts as cryptographic authorship proof.
 

@@ -5,14 +5,14 @@
 
 ## 🩻 Philosophy
 
-Hacking is not a job — it’s a mindset.  
+Hacking is not a job - it’s a mindset.  
 A hacker doesn’t thrive in captivity.  
 He learns by breaking things, explores by curiosity, and builds by understanding.  
 
 But the world needs structure.  
 Companies need contracts, guarantees, and responsibility.  
 
-**“Hacker as a Company”** is the bridge — a legal, ethical, and agile structure where hackers can stay free *and* professional.
+**“Hacker as a Company”** is the bridge - a legal, ethical, and agile structure where hackers can stay free *and* professional.
 
 ---
 
@@ -20,14 +20,14 @@ Companies need contracts, guarantees, and responsibility.
 
 ### 1. Freedom First  
 A hacker’s greatest asset is autonomy.  
-No rigid 9→5 — just discipline, curiosity, and flow.
+No rigid 9→5 - just discipline, curiosity, and flow.
 
 ### 2. Ethical Autonomy  
 Freedom doesn’t mean chaos.  
-We act transparently, with integrity, under contract or NDA — not outside the law.
+We act transparently, with integrity, under contract or NDA - not outside the law.
 
 ### 3. Agility over Bureaucracy  
-Small, tactical, adaptive units — not slow, hierarchical organizations.  
+Small, tactical, adaptive units - not slow, hierarchical organizations.  
 Like in cybersecurity, speed is survival.
 
 ### 4. Curiosity as Fuel  
@@ -48,23 +48,23 @@ We earn freedom by being accountable.
 - Maintaining **freedom of choice, schedule, and direction**.  
 - Staying **compliant**, **documented**, and **respected**.
 
-This is not freelancing with chaos — it’s **freedom with structure**.
+This is not freelancing with chaos - it’s **freedom with structure**.
 
 ---
 
 ## 🪶 Legal but Free
 
-A movement of independent hackers operating as companies — legal by design, free in practice.  
+A movement of independent hackers operating as companies - legal by design, free in practice.  
 Work arrives through clear scopes and contracts; delivery is measured by outcomes, not orders.  
 Integrity, consent, and documentation underpin every engagement.  
 
-Not employees, not anonymous actors — small, accountable units with professional autonomy.
+Not employees, not anonymous actors - small, accountable units with professional autonomy.
 
 ---
 
 ## 🛠️ Open-Source Initiative
 
-This concept is **open-source** — licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+This concept is **open-source** - licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Fork it, adapt it, remix it, translate it.  
 
 Create your own:
@@ -73,7 +73,7 @@ Create your own:
 - `pricing_guide.md`  
 - `setup_playbook.md`  
 
-Together we build the **Open Hacker Economy** — a world where curiosity and integrity can coexist.
+Together we build the **Open Hacker Economy** - a world where curiosity and integrity can coexist.
 
 ---
 
@@ -92,9 +92,9 @@ Together we build the **Open Hacker Economy** — a world where curiosity and in
 The concept “Hacker as a Company” was initiated by **El Mehdi Oumedlouz** in 2025
 as an open, ethical framework for autonomous hackers.
 This manifesto is open-source (CC BY-SA 4.0).
-Anyone may fork and adapt it — provided attribution is maintained.
+Anyone may fork and adapt it - provided attribution is maintained.
 
-Created by El Mehdi Oumedlouz — November 2025. Licensed under CC BY-SA 4.0.
+Created by El Mehdi Oumedlouz - November 2025. Licensed under CC BY-SA 4.0.
 
 ---
 Concept and manifesto originally created by El Mehdi Oumedlouz (2025)

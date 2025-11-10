@@ -7,7 +7,7 @@
 - Fixed-price per project with clear scope.
 - Time & materials (daily/weekly rate) with capped budget.
 - Retainer for ongoing advisory and rapid response.
-- Outcome-based (e.g., per remediation milestone) — use carefully.
+- Outcome-based (e.g., per remediation milestone) - use carefully.
 
 ## Benchmarks (example ranges)
 
