@@ -20,9 +20,9 @@ Freedom with structure. Ethics without compromise. Community over ego.
 
 ## Governance
 
-- Founder as Gardener: El Mehdi Oumedlouz acts as origin and steward - not CEO.
-- Decisions prioritize the manifesto and charter alignment.
-- Local cells (e.g., “Hacker as a Company – Morocco”) may self-organize while honoring this charter and license.
+- Founder as steward: El Mehdi Oumedlouz acts as origin and steward; governance emphasizes service and clarity.
+- Decisions prioritize alignment with the manifesto and charter.
+- Local cells (e.g., “Hacker as a Company - Morocco”) may self-organize while honoring this charter and license.
 
 ## License & Attribution
 

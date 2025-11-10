@@ -20,14 +20,14 @@ Companies need contracts, guarantees, and responsibility.
 
 ### 1. Freedom First  
 A hacker’s greatest asset is autonomy.  
-No rigid 9→5 - just discipline, curiosity, and flow.
+Flexible scheduling with discipline, curiosity, and flow.
 
 ### 2. Ethical Autonomy  
 Freedom doesn’t mean chaos.  
-We act transparently, with integrity, under contract or NDA - not outside the law.
+We act transparently, with integrity, under contract or NDA - always within applicable law.
 
-### 3. Agility over Bureaucracy  
-Small, tactical, adaptive units - not slow, hierarchical organizations.  
+### 3. Agility with Clarity  
+Small, adaptive teams aligned to clear objectives.  
 Like in cybersecurity, speed is survival.
 
 ### 4. Curiosity as Fuel  
@@ -48,17 +48,15 @@ We earn freedom by being accountable.
 - Maintaining **freedom of choice, schedule, and direction**.  
 - Staying **compliant**, **documented**, and **respected**.
 
-This is not freelancing with chaos - it’s **freedom with structure**.
+This is **freedom with structure** - professional, documented, and reliable.
 
 ---
 
 ## 🪶 Legal but Free
 
-A movement of independent hackers operating as companies - legal by design, free in practice.  
-Work arrives through clear scopes and contracts; delivery is measured by outcomes, not orders.  
+Independent professionals operate as legally compliant micro-companies - legal by design, free in practice.  
+Work is defined by clear scopes and contracts; delivery is measured by outcomes.  
 Integrity, consent, and documentation underpin every engagement.  
-
-Not employees, not anonymous actors - small, accountable units with professional autonomy.
 
 ---
 
