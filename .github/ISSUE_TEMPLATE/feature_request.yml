@@ -1,0 +1,21 @@
+name: Feature request
+description: Suggest an idea, guide, or template
+labels: [enhancement]
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What would you like to add or change?
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why is this valuable for the movement?
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope & deliverables
+      description: Keep it clear and minimal
