@@ -22,6 +22,7 @@ This repository hosts the Hacker as a Company manifesto, templates, and docs. Fo
 - Use imperative, present tense; professional tone.
 - File names: lowercase with hyphens (e.g., `pricing-guide.md`).
 - Include the attribution footer at the end of new docs/templates (see `ORIGIN.md`).
+ - Typography: use ASCII hyphen `-` only. Do not use en dash (U+2013) or em dash (U+2014). Examples: `2-4 weeks`, `$3k-$10k`.
 
 ## Testing Guidelines
 - No code unit tests. Validate by:

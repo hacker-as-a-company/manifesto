@@ -28,7 +28,7 @@ We act transparently, with integrity, under contract or NDA - always within appl
 
 ### 3. Agility with Clarity  
 Small, adaptive teams aligned to clear objectives.  
-Like in cybersecurity, speed is survival.
+
 
 ### 4. Curiosity as Fuel  
 Every new system is an opportunity to learn, not to exploit.  
@@ -65,11 +65,7 @@ Integrity, consent, and documentation underpin every engagement.
 This concept is **open-source** - licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Fork it, adapt it, remix it, translate it.  
 
-Create your own:
-- `charte_hacker_as_company.md`  
-- `contract_template.md`  
-- `pricing_guide.md`  
-- `setup_playbook.md`  
+
 
 Together we build the **Open Hacker Economy** - a world where curiosity and integrity can coexist.
 
@@ -77,8 +73,8 @@ Together we build the **Open Hacker Economy** - a world where curiosity and inte
 
 ## 🧩 Join the Movement
 
-🌍 [GitHub Discussions / Issues] – Collaborate, propose ideas.  
-💬 [Discord / Matrix / Telegram] – Join the tactical hackers’ space.  
+🌍 [GitHub Discussions / Issues] - Collaborate, propose ideas.  
+💬 [Discord] - Join the tactical hackers’ space.  
 🔗 #HackerAsACompany | #OpenHackerEconomy | #EthicalHacking  
 
 ---
