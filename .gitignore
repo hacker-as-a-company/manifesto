@@ -15,3 +15,4 @@ site/
 tmp/
 .tmp/
 .gnupg_repo/
+AGENTS.md
