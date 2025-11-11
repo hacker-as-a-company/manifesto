@@ -1,4 +1,0 @@
-*.md text eol=lf
-docs/* linguist-documentation
-templates/* linguist-documentation
-scripts/* linguist-language=Shell
