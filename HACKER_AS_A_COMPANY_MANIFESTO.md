@@ -74,7 +74,7 @@ Together we build the **Open Hacker Economy** - a world where curiosity and inte
 ## 🧩 Join the Movement
 
 🌍 [GitHub Discussions / Issues] - Collaborate, propose ideas.  
-💬 [Discord] - Join the tactical hackers’ space.  
+💬 [[Discord](https://discord.gg/pbrMWK7V)] - Join the tactical hackers’ space.  
 🔗 #HackerAsACompany | #OpenHackerEconomy | #EthicalHacking  
 
 ---
