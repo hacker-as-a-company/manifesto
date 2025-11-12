@@ -90,7 +90,5 @@ Anyone may fork and adapt it - provided attribution is maintained.
 
 Created by El Mehdi Oumedlouz - November 2025. Licensed under CC BY-SA 4.0.
 
----
-Concept and manifesto originally created by El Mehdi Oumedlouz (2025)
-https://github.com/hacker-as-a-company
-Licensed under CC BY-SA 4.0
+
+
