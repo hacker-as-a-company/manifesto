@@ -4,7 +4,6 @@ Legal & free.
 
 [Read the Manifesto](./HACKER_AS_A_COMPANY_MANIFESTO.md)
 
-This repository is an MVP and contains only the manifesto text.
 
 ---
 Concept and manifesto originally created by El Mehdi Oumedlouz (2025)
