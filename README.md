@@ -1,8 +1,7 @@
 # Hacker as a Company - Manifesto Repository  
 **Version:** 1.0 • **Status:** Pre-operational • **Last updated:** 2025-11-15
 
-This repository contains the foundational documents of **Hacker as a Company (HaaC)** -  
-a framework for ethical, autonomous, and legally compliant hackers who operate with the freedom of independents and the clarity of professionals.
+This repository contains the foundational documents of **Hacker as a Company (HaaC)**: a framework for ethical, autonomous, and legally compliant hackers who operate with the freedom of independents and the clarity of professionals.
 
 HaaC was created to define a new model for hackers:  
 **Ethics first. Freedom second. Impact always.**
