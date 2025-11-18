@@ -1,4 +1,4 @@
-# Hacker as a Company , Code of Conduct
+# Hacker as a Company - Code of Conduct
 Version 1.0 , 2025  
 License: CC BY-SA 4.0
 
