@@ -3,7 +3,7 @@
 
 The **Hacker as a Company (HaaC)** community gathers hackers, builders, engineers, architects, designers, researchers, legal minds, and creators under one shared vision:
 
-> **Empower hackers to operate ethically, legally, freely, and collaboratively as autonomous entities, not employees trapped in rigid systems.**
+> **Empower hackers to operate ethically, legally, freely, and collaboratively as autonomous entities**
 
 These guidelines define how we collaborate, grow, and build the movement together.
 
