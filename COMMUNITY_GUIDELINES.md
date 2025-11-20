@@ -27,7 +27,7 @@ Ethics come first because **trust** is the foundation of everything we do.
 
 ## 2. Freedom With Responsibility  
 Hackers do not thrive in captivity.  
-A hacker’s natural state is **autonomy**, **curiosity**, and **deep focus** — not rigid schedules or hierarchical constraints.
+A hacker’s natural state is **autonomy**, **curiosity**, and **deep focus**  not rigid schedules or hierarchical constraints.
 
 In HaaC:
 
@@ -35,7 +35,7 @@ In HaaC:
 - You choose **when** you work  
 - You choose **how** you contribute  
 - You move at your own rhythm  
-- You follow your curiosity — your strongest engine  
+- You follow your curiosity, your strongest engine  
 
 Freedom only exists because **ethics and responsibility** protect it.
 
@@ -51,7 +51,7 @@ We embrace the authentic hacker identity:
 - Exploration driven by **why**  
 - A desire to improve the world, not to break it  
 
-Hacking is **not** an act — it is a *mindset and a way of thinking*.
+Hacking is **not** an act  it is a *mindset and a way of thinking*.
 
 ---
 
@@ -103,19 +103,19 @@ We build. We ship. We move.
 
 # 2. Community Spaces
 
-## 1. Platform — **https://hackerasacompany.org**  
+## 1. Platform  **https://hackerasacompany.org**  
 The official HaaC layer:
 
 - Framework  
 - Governance  
 - Hacker profiles  
 - Learning resources  
-- (Future) mission marketplace  
-- (Future) crowdsourced pentesting & VDP participation  
+- Mission marketplace  
+- Crowdsourced pentesting & VDP participation  
 
 ---
 
-## 2. GitHub — **https://github.com/hacker-as-a-company**  
+## 2. GitHub  **https://github.com/hacker-as-a-company**  
 Where the movement is built:
 
 - Code  
@@ -178,13 +178,13 @@ HaaC is global, but **rooted** in Morocco.
    Comment on the issue or jump in the Discord thread.
 
 2. **Respect maintainers’ decisions**  
-   A declined PR is not a rejection of you — only of code.
+   A declined PR is not a rejection of you, but only of code.
 
 3. **Communicate with clarity and kindness**  
    No toxicity. No ego battles.
 
 4. **Credit authors**  
-   Ideas, code, drafts — attribution matters.
+   Ideas, code, drafts  attribution matters.
 
 5. **Security first**  
    - No sensitive data in commits  
