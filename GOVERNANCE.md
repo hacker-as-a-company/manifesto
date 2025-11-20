@@ -1,4 +1,4 @@
-# HaaC — Governance (Phase‑0)
+# HaaC  Governance (Phase‑0)
 **Version:** 1.0 • **Status:** Pre‑operational • **Last updated:** 2025‑11‑15
 
 This document defines how HaaC organizes decisions, roles, and accountability during **Phase‑0**. It prioritizes **trust, legality, and safety** while we build the framework and platform.
