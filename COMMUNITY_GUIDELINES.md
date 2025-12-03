@@ -103,15 +103,56 @@ We build. We ship. We move.
 
 # 2. Community Spaces
 
-## 1. Platform  **https://hackerasacompany.org**  
-The official HaaC layer:
+## 1. Platform — https://hackerasacompany.org  
+The **official global layer** of the movement.  
+It contains the long-term, stable, structured components of HaaC:
 
-- Framework  
-- Governance  
-- Hacker profiles  
-- Learning resources  
-- Mission marketplace  
-- Crowdsourced pentesting & VDP participation  
+- **Global Framework**  
+- **Governance & principles**  
+- **Hacker identity & profiles**  
+- **Learning resources (methodologies, guides, ethics)**  
+- **Mission marketplace (international layer)**  
+- **Global Vulnerability Disclosure Framework (VDP)**  
+- **Ecosystem documentation (blueprints, manifestos, charters)**  
+
+This space represents **the global vision** and the **canonical reference** of the movement.
+
+---
+
+## 2. Platform — https://hackerasacompany.ma  
+The **official Morocco Chapter**.  
+It holds the *national layer* of the movement:
+
+- **Morocco-specific framework & alignment with laws**  
+- **Moroccan ecosystem mapping**  
+- **Operational structures for Moroccan entities**  
+- **National mission marketplace**  
+- **National VDP & coordinated response**  
+- **Official communication for the HaaC Morocco chapter**  
+- **Gateway for Moroccan partners (entreprises & institutions)**  
+
+Everything here is **official**, “production-ready”, and aligned with the Moroccan context.
+
+---
+
+## 3. Platform — https://ethicalhackers.ma  
+The **playground**, **community engine**, and **contribution hub**.
+
+This is where the community works, experiments, proposes and builds:
+
+- **Proposal system**  
+- **Voting system**  
+- **Reputation system v0**  
+- **Contribution workflow (proposal → vote → claim → execution → delivery)**  
+- **Ticketing & bug reporting**  
+- **Project & tasks management**  
+- **Community discussions & feedback loops**  
+- **Early experiments & MVP features before going to .ma or .org**  
+
+This is the **living space** of the movement.  
+Where ideas become actions.  
+Where contributors shape the future of HaaC.
+
 
 ---
 
@@ -145,7 +186,7 @@ Discord is the **lab**, not the headquarters.
 
 # 3. How We Work
 
-## A. Project Cells (Decentralized Execution)  
+## A. Project Cells
 Each project is a **cell**:
 
 - Clear purpose  
