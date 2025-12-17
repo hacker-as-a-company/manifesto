@@ -223,7 +223,7 @@ a world where creativity, ethics, and professionalism coexist naturally.
 ## Join the Movement
 
 GitHub: <https://github.com/hacker-as-a-company>  
-Discord: <https://discord.gg/pbrMWK7V>
+Discord: <[https://discord.gg/pbrMWK7V](https://discord.gg/ZK6tXCfgd7)>
 
 Contribute ideas.  
 Write. Debate. Fork. Translate.  
